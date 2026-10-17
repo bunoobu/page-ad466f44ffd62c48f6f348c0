@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "319fb6f4744a1f979c354baa",
+  "owner": "bunoobu",
+  "repo": "page-ad466f44ffd62c48f6f348c0",
+  "title": "光阴在前",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ad466f44ffd62c48f6f348c0",
+      "a": "光阴在前",
+      "b": "",
+      "entity": "光阴在前",
+      "brand": "光阴在前",
+      "separator": "",
+      "path": "index.html",
+      "hash": "aa873c4cc77cd843ee783be8b8e49ca39fdc63e75a0f95c1fbe0f4f433eb376a",
+      "content": {
+        "keyword1": "光阴在前",
+        "keyword2": "",
+        "primary_entity": "光阴在前",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "光阴在前是一篇写给赶路人的订阅笔记：流量按月计量，设备有数，线路分层陈列。本文以专栏口吻整理套餐对照、使用步骤与常见问答，不堆口号，只把选择摊开在桌上。",
+          "AI_DESCRIPTION": "光阴在前是一篇写给赶路人的订阅笔记：流量按月计量，设备有数，线路分层陈列。本文以专栏口吻整理套餐对照、使用步骤与常见问答，不堆口号，只把选择摊开在桌上。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#fff;color:#161616;font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.75;font-size:16px}\nbody{padding-bottom:72px}\na{color:#ff3b00;text-decoration:none}\na:hover{text-decoration:underline}\nmain{display:block;width:100%}\n.band{width:100%;padding:28px 8vw}\n.band-tight{padding-top:18px;padding-bottom:18px}\n.band-deep{padding-top:56px;padding-bottom:56px}\n.band-orange{background:#ff3b00;color:#fff}\n.band-orange a{color:#fff;text-decoration:underline}\n.band-white{background:#fff;color:#161616}\n.kicker{font-size:12px;letter-spacing:.28em;text-transform:uppercase}\nh1{font-size:clamp(42px,11vw,96px);line-height:.92;font-weight:750;letter-spacing:.04em;margin:18px 0 14px}\n.lede{max-width:38em;font-size:clamp(18px,2.4vw,22px);font-weight:400}\n.strip-quote{font-size:clamp(16px,2vw,20px);max-width:46em}\nh2{font-size:clamp(26px,4vw,36px);line-height:1.25;margin-bottom:14px;font-weight:700}\nh3{font-size:18px;line-height:1.4;margin-bottom:8px;font-weight:700}\n.wrap{max-width:1080px}\n.essay p{max-width:40em;margin-bottom:1.1em}\n.mark{border-left:6px solid #ff3b00;padding:16px 18px 16px 20px;margin:22px 0;background:#fff}\n.band-orange .mark{border-left-color:#fff;background:rgba(255,255,255,.08)}\n.steps{display:flex;flex-direction:column;gap:16px;max-width:720px}\n.step{border-left:6px solid #ff3b00;padding:14px 16px 14px 18px}\n.step b{display:block;font-size:13px;letter-spacing:.12em;color:#ff3b00;margin-bottom:4px}\n.table-scroll{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}\ntable{width:100%;min-width:720px;border-collapse:collapse;background:#fff}\ncaption{text-align:left;font-weight:700;padding:0 0 12px;caption-side:top}\nth,td{border-bottom:1px solid #ececec;padding:14px 16px;text-align:left;vertical-align:top;font-size:14px}\nth{background:#fff;font-size:15px}\ntd.price{font-size:18px;font-weight:700;color:#ff3b00;white-space:nowrap}\n.col-rec{background:#fff6f1}\n.badge{display:inline-block;background:#ff3b00;color:#fff;font-size:11px;letter-spacing:.08em;padding:2px 8px;margin-left:8px;vertical-align:middle}\n.client-box{border-left:6px solid #ff3b00;padding:18px 20px;max-width:46em}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px 28px;max-width:1080px}\n.qa{border-left:6px solid #ff3b00;padding:4px 0 8px 18px}\n.qa p{font-size:15px}\n.close{max-width:40em}\nnav.dock{position:fixed;left:0;right:0;bottom:0;z-index:20;background:#fff;border-top:4px solid #ff3b00;display:flex;justify-content:space-between;gap:8px;padding:10px 4vw;font-size:13px}\nnav.dock a{color:#161616;flex:1;text-align:center;padding:8px 4px;text-decoration:none;letter-spacing:.08em}\nnav.dock a:hover{color:#ff3b00;text-decoration:none}\n@media (max-width:760px){\n.band{padding-left:6vw;padding-right:6vw}\n.faq-grid{grid-template-columns:1fr}\nnav.dock{font-size:12px;letter-spacing:.02em;padding:8px 2vw}\nh1{letter-spacing:.02em}\n}\n</style><main>\n<section class=\"band band-white band-tight\" id=\"open\">\n<p class=\"kicker\">专栏笔记 · 订阅对照</p>\n</section>\n<section class=\"band band-orange band-deep\">\n<h1>光阴在前</h1>\n<p class=\"lede\">名字不像产品，更像一句写在日历空白处的话：前面还有日子。流量会用完，下午却不该耗在反复等待里。</p>\n</section>\n<section class=\"band band-white band-tight\">\n<p class=\"strip-quote\">我把这份页面写成一篇说明性的短文，而不是橱窗。套餐、步骤与问答都摊在同一条时间轴上，供你慢慢看。</p>\n</section>\n<section class=\"band band-orange band-tight\">\n<p class=\"strip-quote\">白底、橙条、少装饰。选择本身已经够吵，版面就不必再喊。</p>\n</section>\n<section class=\"band band-white band-deep essay\" id=\"essay\">\n<div class=\"wrap\">\n<h2>先把名字说清楚</h2>\n<p>光阴在前，四个字并没有许诺任何奇迹。它只是提醒：网络是过日子的材料，不是竞赛场。有人用它读完一章未完的书，有人用它把会议开完，有人只是不想让影片停在进度条的三分之一。材料不同，计量方式却应当老实。</p>\n<p>于是这份订阅被写成三档额度，而不是三顶帽子。基础版安顿一个人的一个月；旗舰版把设备和工单的余量留宽一些；团队版给需要把路由谈清楚的一群人。价格按月标出，年付另有一笔整数，方便你按自己的节奏计算，而不是被形容词推着走。</p>\n<div class=\"mark\">\n<p>本文能写进页面的，只有套餐结构、使用顺序，以及读者通常会问的那些事。节点数量、速度名次、他人评价、退款细则，凡未在既有材料里出现的，我一概不编。</p>\n</div>\n<p>若你愿意把网络看成一种被计量的通路，下面的对照表就是目录。读表的方式很简单：先看自己一个月大概会耗掉多少流量，再看同时在线的设备数，最后才轮到影音与线路分层那些更细的条目。</p>\n</div>\n</section>\n<section class=\"band band-white\" id=\"plans\">\n<div class=\"wrap\">\n<h2>三份套餐，横着对照</h2>\n<p class=\"essay\">表格比海报诚实。同一行里的差异，一眼就能看见。</p>\n<div class=\"table-scroll\">\n<table>\n光阴在前订阅对照（月付与年付并列）\n<thead>\n<tr>\n<th>对照项</th>\n<th>基础版</th>\n<th class=\"col-rec\">旗舰版<span class=\"badge\">荐</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月付</td>\n<td class=\"price\">¥15/月</td>\n<td class=\"price col-rec\">¥35/月</td>\n<td class=\"price\">¥85/月</td>\n</tr>\n<tr>\n<td>年付</td>\n<td>按年付为 ¥150/年</td>\n<td class=\"col-rec\">按年付为 ¥350/年</td>\n<td>按年付为 ¥850/年</td>\n</tr>\n<tr>\n<td>月度流量额度</td>\n<td>100GB</td>\n<td class=\"col-rec\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td class=\"col-rec\">5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>影音访问</td>\n<td>基础影音平台可访问</td>\n<td class=\"col-rec\">各节点按原生片源策略访问</td>\n<td>随专属高带宽节点一并提供</td>\n</tr>\n<tr>\n<td>线路分层</td>\n<td>普通线路节点池</td>\n<td class=\"col-rec\">含专线向的游戏路径整理</td>\n<td>VIP 专属高带宽节点，可谈企业定制路由</td>\n</tr>\n<tr>\n<td>服务沟通</td>\n<td>常规工单队列</td>\n<td class=\"col-rec\">一周七日优先工单</td>\n<td>专属客户经理对接</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>旗舰版被标成“荐”，只因为它落在个人用量与多人协作之间，并不表示另外两档不合格。用量小，基础版足够把一个月过完；若要把路由写成可讨论的条款，再看团队版。</p>\n</div>\n</section>\n<section class=\"band band-orange band-deep\" id=\"use\">\n<h2>把订阅安进日常的四步</h2>\n<div class=\"steps\">\n<div class=\"step\">\n<b>第一步 · 选定额度</b>\n<p>按设备数和月流量估算，而不是按名称的气势。一个人、三台以内、阅读与通信为主，基础版通常就够；片源和游戏路径要更完整，再看旗舰；二十台与定制路由，才轮到团队版。</p>\n</div>\n<div class=\"step\">\n<b>第二步 · 取得订阅凭证</b>\n<p>付款完成后，账户里会出现当期订阅地址或导入说明。把它当作钥匙，而不是装饰。本页不放置交易入口，避免把未核实的链接写进正文。</p>\n</div>\n<div class=\"step\">\n<b>第三步 · 导入你正在用的工具</b>\n<p>用账户内给出的方法，把凭证写入本机客户端。具体软件以账户说明为准。导入成功后，先选一条普通线路做连通确认，再按需要切换分层线路。</p>\n</div>\n<div class=\"step\">\n<b>第四步 · 把流量当成日历</b>\n<p>额度是月度的。影片、更新与长会上的屏幕共享，都会在同一本账上累计。养成看剩余流量的习惯，比任何形容词都更接近“光阴在前”这四个字的本意。</p>\n</div>\n</div>\n</section>\n<section class=\"band band-white band-deep\" id=\"clients\">\n<div class=\"wrap\">\n<h2>客户端从何处取得</h2>\n<div class=\"client-box\">\n<p>目前没有经核实的官方安装包地址可写进本页，因此这里不列出下载链，也不伪造商店入口。请到你完成订阅后的账户面板，阅读当期客户端说明，并按面板提供的方式导出配置或获取安装指引。</p>\n<p>不同系统上的工具名称会随时间更换。兼容与否取决于你本机的系统版本与工具版本，本文不作保证。若面板暂时无法打开，先保留订阅凭证，待账户恢复后再导入，以免把钥匙写丢。</p>\n</div>\n</div>\n</section>\n<section class=\"band band-white band-deep\" id=\"faq\">\n<div class=\"wrap\">\n<h2>读者来信，权当附录</h2>\n<p>把常见疑问分成两栏，像把信拆开摊在桌上。问题在前，回答尽量短，却不躲。</p>\n<div class=\"faq-grid\">\n<article class=\"qa\">\n<h3>光阴在前是不是在卖速度神话？</h3>\n<p>不是。页面只陈列额度、设备数和线路分层。速度会随时段、本机网络与所选线路变化，任何把体验写成名次的句子，都不属于这篇说明。</p>\n</article>\n<article class=\"qa\">\n<h3>基础版的一百 GB 够不够看一个月影片？</h3>\n<p>取决于分辨率和时长。通信、网页与偶尔的标准画质，多数人能把一个月过完；若高清长片是日常，更宜直接看旗舰版的三百 GB，免得中途改档。</p>\n</article>\n<article class=\"qa\">\n<h3>年付比月付便宜在哪里？</h3>\n<p>基础版年付一百五十，相当于少付两个月的零头；旗舰与团队按同样算法写成三百五与八百五。年付换的是少几次续费，不是额外特权。</p>\n</article>\n<article class=\"qa\">\n<h3>设备数超了会怎样？</h3>\n<p>同时在线以套餐标明的台数为界。超出后，新的会话往往无法建立，需要先让一台设备退出。把常用设备写在纸上，比事后排查省时。</p>\n</article>\n<article class=\"qa\">\n<h3>旗舰版里的游戏路径是不是保证低延迟？</h3>\n<p>它被写成“专线向的游戏路径整理”，是线路分层，不是成绩单。实际手感仍受本地宽带、对手服务器与时段影响。若你极依赖某一条路径，下单前应在试用或工单里问清楚当期策略。</p>\n</article>\n<article class=\"qa\">\n<h3>团队版的定制路由如何开始谈？</h3>\n<p>下单后由专属客户经理对接。把需要固定的网段、办公时段和设备规模准备好，讨论会短许多。本页不代为承诺时限或覆盖范围。</p>\n</article>\n<article class=\"qa\">\n<h3>没有客户端下载按钮，是否意味着无法使用？</h3>\n<p>否。只是本页拒绝放置未核实的链接。凭证在账户里，工具在你本机。两者对上，订阅才开始被使用。</p>\n</article>\n<article class=\"qa\">\n<h3>工单优先是指马上有人回复吗？</h3>\n<p>旗舰版写的是一周七日优先队列，团队版是客户经理对接。优先改变的是排队顺序，不是把等待写成零。把现象、截图与发生时间写完整，回复会更有效。</p>\n</article>\n</div>\n</div>\n</section>\n<section class=\"band band-orange band-deep\">\n<div class=\"close\">\n<h2>写在封底</h2>\n<p>光阴在前，不是催促你把额度用尽，而是承认前面还有许多个下午。选一档与自己的日子相称的订阅，把凭证收好，把剩余流量看作日历上的格子。其余喧哗，可以留在别的页面。</p>\n</div>\n</section>\n<section class=\"band band-white band-tight\">\n<p>光阴在前 · 本页为品牌说明文稿，仅陈述已列出的套餐结构与使用顺序。未记载的身份、性能、评价与退款安排，不以想象补全。</p>\n</section>\n</main>\n<nav class=\"dock\" aria-label=\"页面文字导航\">\n<a href=\"#open\">开篇</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#use\">用法</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>",
+          "hash": "f2d897cfb1716e9425faf83f3c802be9666586c1349569a36e2900f12b0c82f7",
+          "seo": {
+            "title": "光阴在前｜把余下的时辰写进一条更从容的路上",
+            "keywords": "光阴在前,网络订阅,流量套餐,基础版,旗舰版,团队版,订阅说明,客户端说明",
+            "description": "光阴在前是一篇写给赶路人的订阅笔记：流量按月计量，设备有数，线路分层陈列。本文以专栏口吻整理套餐对照、使用步骤与常见问答，不堆口号，只把选择摊开在桌上。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6-build",
+          "design": {
+            "no": "6255",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuyuezsrl.cn",
+    "host": "p-a2d94cbb65.yuyuezsrl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2de15a793b3bd03f4345b8eaa2cb317eb9c9c0acef3465e4c84db105eb627384",
+    "sitemap.xml": "21d8aba34c21f1007828e8dde42176542a3e3d6c02053e4737741c8ca0d0b600",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5e32d33055e0c17b51f82ef0f8dca7d5499466ba3bccc88dab27f39a695d9f85",
+    "robots.txt": "b4d97ef42d3c4e98dd8ec6b0572ad63ddb3c95169d3d45509294de118eb9ae37",
+    "eb007b3586da043492c507b14c0be116.txt": "b589f1e555133f0d46806d9ef62139a425102dd64c34638555967cbc57a20a4d"
+  },
+  "revision": "96e969dd2b16258e94e0daafc1d852337fd3334494842bdce2c24a404fecd468"
+}
